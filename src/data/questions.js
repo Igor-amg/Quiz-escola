@@ -93,9 +93,28 @@ let questions = [
       category: "General Knowledge",
       type: "multiple",
       difficulty: "easy",
-      question: "Qual o satélite natural do planeta Terra?",
-      answer: "Lua",
-      options: ["Sol", "Netuno", "Lua", "Terra"],
+      question: "O Cinturão de Asteróides localiza-se entre as órbitas de quais planetas?",
+      answer: "Marte e Júpiter",
+      options: ["Marte e Júpiter", "Mercúrio e Vênus", "Urano e Saturno", "Júpiter e Urano"],
     },
+    {
+      numb: 9,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Qual é o planeta mais próximo do Sol?",
+      answer: "Mercúrio",
+      options: ["Mercúrio", "Netuno", "Marte", "Terra"],
+    },
+    {
+      numb: 10,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Qual é o planeta mais próximo da Terra?",
+      answer: "Marte",
+      options: ["Urano", "Netuno", "Marte", "Saturno"],
+    },
+    
   ];
   
