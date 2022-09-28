@@ -88,5 +88,14 @@ let questions = [
       answer: "Constelação",
       options: ["Cometa","Constelação", "Buraco negro", "Planetoide"],
     },
+    {
+      numb: 8,
+      category: "General Knowledge",
+      type: "multiple",
+      difficulty: "easy",
+      question: "Qual o satélite natural do planeta Terra?",
+      answer: "Lua",
+      options: ["Sol", "Netuno", "Lua", "Terra"],
+    },
   ];
   
