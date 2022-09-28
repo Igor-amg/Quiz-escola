@@ -1,0 +1,27 @@
+@media (max-width: 620px) {
+    .info_box{
+        width: 300px;
+    }
+    .quiz_box{
+        width: 300px;
+    }
+    
+    section .option_list .option .icon{
+        width: 20px;
+        height: 15px;
+        border-radius: 50%;
+    }
+    .result_box {
+        width: 350px;
+    }
+
+    .next_btn{
+        font-size: 15px;
+        padding: 0 5px;
+    }
+   
+    .hud-prefix{
+        padding: 15px;
+    }
+
+}
